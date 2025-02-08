@@ -68,4 +68,9 @@
 - [X] Start Open Source
 - [ ] Exercise
 - [ ] Finish College Application
+
+- [Evindu](https://github.com/evindu123)
+- [X] Wake up in the morning
+- [ ] Exercise
+- [ ] Attends lectures
 ### <-- Contributor END
